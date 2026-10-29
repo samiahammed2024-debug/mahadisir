@@ -1,0 +1,5 @@
+{
+  "name": "NEXORA — Everyday Discovery",
+  "description": "Premium online store in Bangladesh for electronics, fashion, home, beauty and sports.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
